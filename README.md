@@ -44,4 +44,4 @@ I'm currently on a path to self-taught education 🎓 in [Computer Science][comp
 [cv]: https://horia.delicoti.com/Horia_Delicoti_CV.pdf
 [computer-science]: https://github.com/horia-delicoti/computer-science
 [code]: https://github.com/horia-delicoti/code_challenges
-[goodreads]: https://www.goodreads.com/review/list/105778063-horia?ref=nav_mybooks&shelf=read
+[goodreads]: https://www.goodreads.com/user/show/105778063-horia
