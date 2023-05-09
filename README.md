@@ -3,8 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)][website]
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=horia-delicoti.horia-delicoti&style=flat-square&color=0088cc)
-
+### Glad to see you here!
 I'm currently on a path to self-taught education 🎓 in [Computer Science][computer-science] 🏛. I like to learn 👨🏻‍💻 and work across technologies and domains 💡. I'm currently into Platform Engineering 🕸️ and working on my [Data Structures and Algorithms][code] knowledge 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/horia-delicoti/horia-delicoti/master/assets/coder.gif" />
