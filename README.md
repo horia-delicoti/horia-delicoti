@@ -29,7 +29,7 @@ I'm currently on a path to self-taught education 🎓 in [Computer Science][comp
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh <a href="https://draculatheme.com/zsh">(Dracula)</a></li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, <a href="https://devops.com/">DevOps</a> and <a href="https://lwn.net/">LWN.net</a>.</li>
+	    <li><b>To Stay Updated:</b>  <a href="https://dev.to/">Dev.to</a>, <a href="https://devops.com/">DevOps</a> and <a href="https://lwn.net/">LWN.net</a>.</li>
 	    <br />
 	⚛️ Checkout My Dotfiles Configrations <a href="https://github.com/horia-delicoti/dotfiles">Here</a>.
 	</ul>	
