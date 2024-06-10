@@ -4,13 +4,12 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)][website]
 
 ### Glad to see you here!
-I'm currently on a path to self-taught education 🎓 in [Computer Science][computer-science] 🏛. I like to learn 👨🏻‍💻 and work across technologies and domains 💡. I'm currently into Platform Engineering 🕸️ and working on my [Data Structures and Algorithms][code] knowledge 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/horia-delicoti/horia-delicoti/master/assets/coder.gif" />
 
 ### Talking about Personal Stuff
 
-- 🛠 &nbsp; I’m currently working with Linux, Ansible, Grafana, Python, etc.
+- 🛠 &nbsp; I’m currently working with Linux, Ansible, Grafana, Python, AWS, Kubernetes, etc.
 - 🚀 &nbsp; I’m currently learning Devops.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github][repo].
 - 💬 &nbsp; Ask me about anything [here][open_issue]! I am happy to help.
