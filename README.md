@@ -37,6 +37,8 @@
 	</ul>	
 </details>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1414353" style='border:none;'></iframe>
+
 <!-- Link labels: -->
 [linkedin]: https://www.linkedin.com/in/horia-delicoti-b0a39463/
 [wiki]: https://horia.delicoti.com/docs/intro
