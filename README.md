@@ -37,7 +37,7 @@
 	</ul>	
 </details>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1414353" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/horiafx.png" alt="Your Image Badge" />
 
 <!-- Link labels: -->
 [linkedin]: https://www.linkedin.com/in/horia-delicoti-b0a39463/
