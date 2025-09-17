@@ -4,6 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)][website]
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)][leetcode]
 [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)][gfg]
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)][tryhackme]
 
 ### Talking about Personal Stuff
 
@@ -48,10 +49,12 @@
 [gfg]: https://www.geeksforgeeks.org/user/hdelicoti/
 [dotfiles]: https://github.com/horia-delicoti/dotfiles
 [infrastructure]: https://github.com/horia-delicoti/infrastructure
-
+[tryhackme]: https://tryhackme.com/p/horiafx
 <!--
 ## References
 
 - [Awesome GitHub Profile ReadMe](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [Github Profile ReadMe](https://dev.to/github/10-standout-github-profile-readmes-h2o)
+- [Shields Badge](https://shields.io/)
+- [Badges for README.md](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 -->
