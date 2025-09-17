@@ -37,7 +37,7 @@
 	</ul>	
 </details>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/horiafx.png" alt="Your Image Badge" />
+[<img src="https://tryhackme-badges.s3.amazonaws.com/horiafx.png" alt="Your Image Badge" />][tryhackme]
 
 <!-- Link labels: -->
 [linkedin]: https://www.linkedin.com/in/horia-delicoti-b0a39463/
