@@ -1,5 +1,6 @@
 ## Hello there 👋
 
+[![Profile view counter on GitHub](https://github.com/horia-delicoti)][github]
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)][website]
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)][tryhackme]
@@ -50,6 +51,7 @@
 [dotfiles]: https://github.com/horia-delicoti/dotfiles
 [infrastructure]: https://github.com/horia-delicoti/infrastructure
 [tryhackme]: https://tryhackme.com/p/horiafx
+[github]: https://github.com/horia-delicoti
 <!--
 ## References
 
