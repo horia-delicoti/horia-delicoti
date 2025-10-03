@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-[![Profile views]((https://komarev.com/ghpvc/?username=horia-delicoti)][github]
+![Profile views](https://komarev.com/ghpvc/?username=horia-delicoti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)][website]
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)][tryhackme]
